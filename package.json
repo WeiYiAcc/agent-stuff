@@ -16,16 +16,9 @@
   ],
   "pi": {
     "extensions": [
-      "./pi-extensions"
-    ],
-    "skills": [
-      "./skills"
-    ],
-    "themes": [
-      "./pi-themes"
-    ],
-    "prompts": [
-      "./commands"
+      "./pi-extensions/answer.ts",
+      "./pi-extensions/loop.ts",
+      "./pi-extensions/control.ts"
     ]
   },
   "dependencies": {
